@@ -12,5 +12,5 @@ Student Info
 
 * Name: *Cấn Trung Hiếu*
 * ID: *BI12-160*
-* Group ID: *Your Group ID here*
+* Group ID: *01*
 
